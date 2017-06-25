@@ -1,0 +1,18 @@
+SCALES
+
+Linear:         A normal additive scale for measuring numeric. Delta is calculated as Max - Min.  or | Max - Min|
+                      example: How big is 7 from 3    Answer: 7-3
+                      
+                      limitation: cleaner representation of varied magnitude numbers are not possible with linear scale.
+                                  example: plot graph with these numbers: 0.0034, 0.004, 0.5, 3, 4.5, 5.1, 5.001, 100, 24587, 100Mil, 365Mil, 234Billion.
+                                           issue here is the graph gets very dense at <10 and later gets sparse.
+                                    
+
+Logarithmic:  A scale representing a constant multiplicative scale (either, 2, 10,... base 10 is usually asssumed)
+                    example: How big is 100 from 10  Answer: log(100)   -> 2* log(10)   Answer: 2  times.
+                   
+                    This is very useful to represent greatly different magnitude numbers. plotted graph is consise and 
+                    Example: Richter Scale, Decibel of sound, pH etc..
+                   
+                    Above details are enough, but if you want more details go here : https://youtu.be/rt_nZtQfTwI
+                   
