@@ -1,0 +1,7 @@
+1. if the steps of increement is 2*x  then O(log2(n).
+2. always take most significant term for time complexity.
+3. if the algorithm is not Either Iterative, or Recursive, then the complexity is dependent on the input.
+
+
+
+it is better explained here - https://youtu.be/FEnwM-iDb2g
