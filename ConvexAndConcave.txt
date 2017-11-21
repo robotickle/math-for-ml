@@ -1,0 +1,23 @@
+Convex
+======
+
+	1. Two points on a curve when joined falls above the curve.
+	2. Second derivative of the function is alway +ve.
+		eg: d``(x^2) => 2.  say g(x)
+	
+
+	3. Jensen's Ineauality.
+
+
+
+
+
+
+
+
+Concave
+=======
+	1. Two points on a curve when joined falls below the curve.
+	2. -g(x)
+
+
