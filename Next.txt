@@ -4,3 +4,12 @@ Spearman Correlation:
 
 The Spearman's rank-order correlation is the nonparametric version of the Pearson product-moment correlation.
 Spearman's correlation coefficient, (ρ, also signified by rs) measures the strength and direction of association between two ranked variables.
+
+
+
+NLP
+===
+
+Polyseme:
+---------
+  A Word wich can be used in multiple cluster of say, Word2Vec, and is closer to almost all the cluster that have been defined.   (Eg: tie ->  Dressing(shirt, frock, pants,.....),  sports(baseball, cricket, soccer,...), etc...)
