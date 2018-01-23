@@ -19,5 +19,19 @@ Concave
 =======
 	1. Two points on a curve when joined falls below the curve.
 	2. -g(x)
+	
+	
+	
+	
+Montonically Increasing:
+========================
+	1. Graph that increases in one direction (mostly in increasing magnitude)
+
+Monotonically Decreasing:
+=========================
+	1. Graph that decreases in one direction (mostly in opposite of increasing magnitude)
+	
+Monotonically NOTIncreasing or Decreasing:  (Opposite of above two.)
+==========================================
 
 
