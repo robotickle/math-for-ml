@@ -31,7 +31,7 @@ Monotonically Decreasing:
 =========================
 	1. Graph that decreases in one direction (mostly in opposite of increasing magnitude)
 	
-Monotonically NOTIncreasing or Decreasing:  (Opposite of above two.)
+Monotonically NOTIncreasing or NOTDecreasing:  (Opposite of above two.)
 ==========================================
 
 
