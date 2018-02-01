@@ -12,4 +12,4 @@ Being inEfficient and Correct, is way better than being Efficient and InCorrect
 it is better explained here - https://youtu.be/FEnwM-iDb2g
 follow course - https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 
-*E*~0~=*mc*^2^
+TODO : Convert this to .md
